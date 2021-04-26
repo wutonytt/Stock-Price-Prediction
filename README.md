@@ -2,6 +2,7 @@
 
 ## How to Run
   `python3 stock_price_prediction.py`
+  Then type in the ticker symbol you want to predict. (e.g. AAPL)
 
 ## Model
 LSTM (Long Short Term Memory)
