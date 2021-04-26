@@ -2,7 +2,11 @@
 
 ## How to Run
   `python3 stock_price_prediction.py`
-  Then type in the ticker symbol you want to predict. (e.g. AAPL)
+  
+  Then type in the ticker symbol (e.g. AAPL) you want to predict.
+  
+## Methods
+We use Yahoo Finance API to fetch stock prices.
 
 ## Model
 LSTM (Long Short Term Memory)
