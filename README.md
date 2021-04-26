@@ -10,7 +10,7 @@ We use Yahoo Finance API to fetch stock prices.
 
 ## Model
 ### LSTM (Long Short Term Memory)
-We use past 60 days to predict one day ahead, and train the model with 25 epochs.
+We use stock prices of past 60 days to predict the stock price one day ahead, and train the model with 25 epochs.
 
 ## Result
 The following image shows the difference between the actual stock prices and the predicted stock prices for validation data, and the prediction of tomorrow stock price is shown at the end.
