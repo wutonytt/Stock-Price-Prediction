@@ -1,7 +1,7 @@
 # Stock Price Prediction
 
 ## How to Run
-python3 stock_price_prediction.py
+  `python3 stock_price_prediction.py`
 
 ## Model
 LSTM (Long Short Term Memory)
