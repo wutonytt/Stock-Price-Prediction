@@ -3,7 +3,7 @@
 ## How to Run
 python3 stock_price_prediction.py
 
-## Technique
+## Model
 LSTM (Long Short Term Memory)
 
 ## Result
